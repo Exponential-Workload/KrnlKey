@@ -3,8 +3,8 @@
 # KrnlKey
 Bypass KRNL's Key System with ease
 
-![image](https://user-images.githubusercontent.com/90570076/167144793-4e760e22-7cc6-4794-8e9c-d3c3b8b2e069.png)
-
+![image](https://user-images.githubusercontent.com/90570076/167147697-db8d6c99-1d90-4e2d-b7a1-0ae6094672e3.png)
+  
 </span>
 
 ## Instructions
