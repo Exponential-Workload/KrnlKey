@@ -1,6 +1,11 @@
+<span align="center">
+
 # KrnlKey
 Bypass KRNL's Key System with ease
+
 ![image](https://user-images.githubusercontent.com/90570076/167144793-4e760e22-7cc6-4794-8e9c-d3c3b8b2e069.png)
+
+</span>
 
 ## Instructions
 
@@ -12,6 +17,11 @@ Bypass KRNL's Key System with ease
 6. Inject
 7. Enter your key
 8. Enjoy!
+
+## AV Notice
+Some Antiviruses may falsely flag this as a virus. This is due to me not having a valid code signing signature.
+
+This is completely safe; run it in a sandbox or a VM if you don't trust me.
 
 ## License
 Copyright (c) YieldingCoder. All Rights Reserved.
