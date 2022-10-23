@@ -1,5 +1,10 @@
 <span align="center">
 
+# this no longer works
+This no longer works & I cba to update it as of now.
+
+Instead of completely bypassing the key system, if 1 LV less sounds good to you, use https://fluxteam.net instead!
+  
 # KrnlKey
 Bypass KRNL's Key System with ease
 
